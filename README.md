@@ -3,6 +3,7 @@
 A modular **5×5 WS2812B LED tile** driven by a **CH32V003** slave MCU.  
 Tiles share a simple **8-bit parallel bus + CLK + EN** so a Raspberry Pi (or any MCU) can address many tiles and push pixel data quickly.
 
+![3d](./media/wall_top_3d.png)
 ---
 
 ## Highlights
