@@ -1,0 +1,76 @@
+# macOS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# KiCad
+# Backup files
+*-backups/
+*-rescue.lib
+*-rescue.dcm
+*-cache.lib
+*-cache.dcm
+*.bak
+*.backup
+*.bck
+
+# KiCad temporary files
+*.tmp
+*~
+fp-info-cache
+*.net
+
+# KiCad lock files
+*.lck
+*~*.kicad_*
+
+# KiCad fabrication outputs (comment out if you want to version these)
+gerber/
+*.zip
+production/
+
+# KiCad library files (uncomment if you want to ignore local libraries)
+# *.lib
+# *.dcm
+
+# KiCad project settings (some prefer to version these, others don't)
+fabrication-toolkit-options.json
+
+# Embedded C/C++
+# Build outputs
+obj/
+Debug/
+Release/
+*.o
+*.obj
+*.exe
+*.out
+*.app
+*.elf
+*.hex
+*.bin
+*.map
+
+# IDE/Editor files
+*.launch
+*.wvproj
+.project
+.cproject
+.template
+.settings/
+*.workspace
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Compiler generated files
+*.d
+*.lst
+
+# Log files
+*.log
