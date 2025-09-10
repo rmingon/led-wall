@@ -199,8 +199,8 @@ A5 5A 12 01 4B  FF 00 00 FF 00 00 ... (25 triplets) ... CRC
 
 ## License
 
-- Hardware: CC-BY-SA 4.0 (or specify your preference)
-- Firmware/Host code: MIT (or your preference)
+- Hardware: CC-BY-SA 4.0
+- Firmware/Host code: MIT
 
 ---
 
